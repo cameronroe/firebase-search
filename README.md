@@ -1,16 +1,16 @@
 # firebase-search
 A wrapper for index and graph searching with Firebase.
 
-# Overview
+## Overview
 
-# Installation
+## Installation
 
-# Getting Started
+## Getting Started
 
-# Examples
+## Examples
 
-# API
+## API
 
-# Changelog
+## Changelog
 
-# License
+## License
